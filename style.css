@@ -1,0 +1,46 @@
+.back-list{
+    display: flex;
+    flex-direction: column;
+    background-color : #6495ED;
+    align-items: flex-end;
+}
+.ent-place{
+    width: 80%;
+    height: 30px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.btn-Add{
+ width: 100px;
+ height: 40px;
+ border: 1px solid bisque;
+ border-radius: 10px;
+ background-color: #6495ED;
+ margin-right: 140px;
+ margin-bottom: 40px;
+ color: bisque;
+
+}
+.parg{
+    color: bisque;
+    margin-right: 140px;
+    font-size: 40px;
+    
+}
+.title{
+    margin-right: 140px;
+    color: bisque;
+    font-size: 80px;
+
+}
+.title-fo{
+    text-align: center;
+    color: gray;
+    margin-top: 90px;
+}
+.throug{
+    text-decoration: line-through;
+}
+.nothroug{
+    text-decoration: none;
+}
